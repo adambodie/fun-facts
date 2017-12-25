@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "705007998965",
+    "firebase_url": "https://fun-facts-app-6e0ab.firebaseio.com",
+    "project_id": "fun-facts-app-6e0ab",
+    "storage_bucket": "fun-facts-app-6e0ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705007998965:android:61389cae8ea9dc05",
+        "android_client_info": {
+          "package_name": "com.bodiewebdesign.funfacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705007998965-qvqt7d4o7g8r4poiuc50va0oga69ohrs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bodiewebdesign.funfacts",
+            "certificate_hash": "a6a1bc6a3c4cf7b9d2ae12113baa136fc8378e76"
+          }
+        },
+        {
+          "client_id": "705007998965-8cvqeo1ngte38cp6eu481l5tk5ffn0p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuJuPWw-miMt8y4JLRm2mFls_Rx37uqOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705007998965-8cvqeo1ngte38cp6eu481l5tk5ffn0p0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

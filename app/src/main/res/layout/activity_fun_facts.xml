@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#51b46d"
+    android:background="#466bb0"
     android:padding="60dp"
     android:id="@+id/relativeLayout"
     tools:context="com.bodiewebdesign.funfacts.FunFactsActivity">
