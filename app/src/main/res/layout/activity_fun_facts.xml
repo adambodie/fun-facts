@@ -18,7 +18,7 @@
         android:layout_alignStart="@+id/factTextView"
         android:text="Did You Know?"
         android:textColor="#80ffffff"
-        android:textSize="24sp" />
+        android:textSize="28sp" />
 
     <TextView
         android:id="@+id/factTextView"
@@ -39,8 +39,9 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:background="@android:color/background_light"
-        android:textColor="#51b46d"
-        android:text="Show Another Fun Fact" />
+        android:elevation="10dp"
+        android:text="Show Another Fun Fact"
+        android:textColor="#466bb0" />
 
 
 
